@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A4988_module_stepper
+F https://www.robotshop.com/media/files/pdf/datasheet-1182.pdf
+$ENDCMP
+#
+#End Doc Library
