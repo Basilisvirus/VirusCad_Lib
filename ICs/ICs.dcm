@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BGM13S_Blue_Gecko_Bluetooth_5.0_SiP
+D External crystal is optional
+K bluetooth 5.1 5.0 LE
+F chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.silabs.com/documents/login/data-sheets/bgm13s-datasheet.pdf
+$ENDCMP
+#
+$CMP DIP2_Switch
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/1055824/OMRON/A6E-N.html
+$ENDCMP
+#
+#End Doc Library
